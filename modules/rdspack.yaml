@@ -1,4 +1,5 @@
 Description: >
+  Origin: https://github.com/csumpter/ghost-cloudformation
   This template creates a multi AZ mysql database to connect our ghost service to
 
 Parameters:
